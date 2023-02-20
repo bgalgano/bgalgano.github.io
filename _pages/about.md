@@ -6,9 +6,9 @@ subtitle: 3rd year Ph.D. candidate @ Johns Hopkins <br> <a href='https://www.sts
 
 profile:
   align: left
-  image: 0254_background_final (1).png.jpg
+  image: 0254_background_final (1).png
   image_circular: false # crops the image to make it circular
-  address: email: bgalgan1[at]jhu[dot]edu
+  address: bgalgan1[at]jhu[dot]edu
     
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
