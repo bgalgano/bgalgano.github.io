@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 3rd year Ph.D. candidate @ Johns Hopkins <br> <a href='https://www.stsci.edu/stsci-research/fellowships/davidsen-fellowship'>Arthur Davidsen Fellow</a>
+subtitle: Ph.D. candidate @ Johns Hopkins University, <a href='https://www.stsci.edu/'><Space Telescope Science Institute</a> <br> <a href='https://www.stsci.edu/stsci-research/fellowships/davidsen-fellowship'>Arthur Davidsen Graduate Fellow</a>
 
 profile:
   align: left
@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Under construction.
+I'm a 3rd year Ph.D. candidate studying exciting cross-section of machine learning (ML) and astronomy/astrophysics. My dissertation advisor is <a href='https://www.stsci.edu/~mntampaka/'>Dr. Michelle Ntampaka</a>, and our work lies under the Data Science Mission Office (DSMO) at the Space Telescope Science Institute (STScI). 
