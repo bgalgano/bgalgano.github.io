@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: Ph.D. candidate @ Dept. of Physics & Astronomy, Johns Hopkins<br><a href='https://www.stsci.edu/stsci-research/fellowships/davidsen-fellowship'>Arthur Davidsen Graduate Fellow</a> @ Space Telescope Science Institute (<a href='https://www.stsci.edu/'><STScI</a>)
 
 profile:
