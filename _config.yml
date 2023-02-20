@@ -47,7 +47,7 @@ navbar_fixed: false
 footer_fixed: false
 
 # Dimensions
-max_width: 700px
+max_width: 600px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -64,7 +64,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: bgalgano # your GitHub user name
-gitlab_username: # your GitLab user name
+gitlab_username: bgalgano # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
