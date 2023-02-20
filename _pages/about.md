@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>D</a>. Ph.D. candidate @ Johns Hopkins
+subtitle: 3rd year Ph.D. candidate & <a href='https://www.stsci.edu/stsci-research/fellowships/davidsen-fellowship'>Arthur Davidsen Fellow</a>@ Johns Hopkins
 
 profile:
   align: left
