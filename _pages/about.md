@@ -24,6 +24,3 @@ Previously, I've graduated with a MSc in 2020 from the <a href='https://www.fisk
 When not doing research or coding, I enjoy long-distance running and taking care of my tuxedo cat, Orion.
 <br>
 <br>
-<br>
-<br>
-<br>
