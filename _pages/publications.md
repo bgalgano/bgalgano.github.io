@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: selected publications
+title: publications
 years: []
 nav: true
 nav_order: 1
