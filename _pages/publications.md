@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: selected publications
 years: []
 nav: true
 nav_order: 1
@@ -15,4 +15,3 @@ nav_order: 1
 {% endfor %}
 
 </div>
-
