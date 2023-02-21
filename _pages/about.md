@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate researcher in ML x astrophysics<br>PhD candidate @ <a href='https://physics-astronomy.jhu.edu/'>Johns Hopkins</a> | <a href='https://www.stsci.edu/stsci-research/fellowships/davidsen-fellowship'>Arthur Davidsen Graduate Fellow</a> @ <a href='https://www.stsci.edu/'>STScI</a>
+subtitle: Graduate researcher in ML x astrophysics<br>PhD candidate @ <a href='https://physics-astronomy.jhu.edu/'>Johns Hopkins</a><br><a href='https://www.stsci.edu/stsci-research/fellowships/davidsen-fellowship'>Arthur Davidsen Graduate Fellow</a> @ <a href='https://www.stsci.edu/'>STScI</a>
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   address:
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
