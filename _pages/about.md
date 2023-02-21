@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher in ML x astrophysics & Ph.D. candidate @ `Johns Hopkins`<br><a href='https://www.stsci.edu/stsci-research/fellowships/davidsen-fellowship'>Arthur Davidsen Graduate Fellow</a> @ <a href='https://www.stsci.edu/'>`STScI`</a>)
+subtitle: Researcher in ML x astrophysics & Ph.D. candidate @ Johns Hopkins<br><a href='https://www.stsci.edu/stsci-research/fellowships/davidsen-fellowship'>Arthur Davidsen Graduate Fellow</a> @ <a href='https://www.stsci.edu/'>`STScI`</a>
 
 profile:
   align: right
