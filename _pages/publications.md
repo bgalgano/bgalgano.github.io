@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: selected publications | <a href='https://ui.adsabs.harvard.edu/public-libraries/DCWz-kzgTj2eow6FLxBXSw'>ADS</a>
-years:
+title: publications
+years: []
 nav: true
 nav_order: 1
 ---
