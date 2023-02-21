@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. candidate & researcher (ML x astrophysics)<br><a href='https://physics-astronomy.jhu.edu/'>JHU</a><br><a href='https://www.stsci.edu/stsci-research/fellowships/davidsen-fellowship'>Arthur Davidsen Graduate Fellow</a> @ <a href='https://www.stsci.edu/'>STScI</a>
+subtitle: Graduate researcher in ML x astrophysics<br>PhD candidate @ <a href='https://physics-astronomy.jhu.edu/'>JHU</a><br><a href='https://www.stsci.edu/stsci-research/fellowships/davidsen-fellowship'>Arthur Davidsen Graduate Fellow</a> @ <a href='https://www.stsci.edu/'>STScI</a>
 
 profile:
   align: right
@@ -15,11 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a 3rd year Ph.D. candidate at the <a href='https://physics-astronomy.jhu.edu/'>`Dept. of Physics & Astronomy at Johns Hopkins`</a> . I conduct research at the exciting frontier of machine learning (ML), astrophysics, and cosmology.
+I'm a 3rd year Ph.D. candidate at the <a href='https://physics-astronomy.jhu.edu/'>`Dept. of Physics & Astronomy at Johns Hopkins`</a> . I currently conduct research at the exciting frontier of machine learning (ML), cosmology, and galaxy clusters.
 
-My advisor is <a href='https://www.stsci.edu/~mntampaka/'>`Dr. Michelle Ntampaka`</a> at the Data Science Mission Office in the <a href='https://www.stsci.edu/'>`Space Telescope Science Institute`</a>. I've worked in a variety of astrophysics subfields from stellar characterization, to exoplanet detection, to cosmology and the large-scale structure. In ML, I have experience in deep neural networks, autoencoders, clustering, and bayesian theory.
+My advisor is <a href='https://www.stsci.edu/~mntampaka/'>`Dr. Michelle Ntampaka`</a> at the Data Science Mission Office in the <a href='https://www.stsci.edu/'>`Space Telescope Science Institute`</a>. I've worked in a variety of astrophysics subfields from detecting exoplanets, characterizing stars, to constraining the large-scale structure of the universe. In ML, I have experience in deep neural networks, autoencoders, clustering, and bayesian theory.
 
-Previously, I've earned an MSc degree in 2020 from the <a href='https://www.fisk-vanderbilt-bridge.org/'>`Vanderbilt-Fisk Bridge-to-the-Ph.D Program`</a>. I am a proud proponent of diversity and inclusion (DEI) initiatives within computer science and physics.
+Previously, I've earned my MSc degree in 2020 from the <a href='https://www.fisk-vanderbilt-bridge.org/'>`Vanderbilt-Fisk Bridge-to-the-Ph.D Program`</a>. I am a proud proponent of diversity and inclusion (DEI) initiatives within computer science and physics.
 
 When not doing research or coding, I enjoy long-distance running and taking care of my tuxedo cat, Orion.
 <br>
